@@ -55,6 +55,7 @@ PORT=port_on_which_you_want_to_run_your_server
 2. run the following command to install the dependencies
 
 ```Bash
+$ cd project
 $ npm install
 ```
 
